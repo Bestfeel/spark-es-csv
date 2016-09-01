@@ -2,7 +2,7 @@
 
 
 
-##  spark  都取hive/HDFS  数据转换为json 或者csv, 可以写入第三方中间件如ES 
+##  spark  读取hive/HDFS  数据转换为json 或者csv, 可以写入第三方中间件如ES 
 
 
 * spark->json
